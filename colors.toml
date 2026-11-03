@@ -1,0 +1,40 @@
+# Jade Crane Dark — midnight jade, gold leaf, crane-white
+mode = "dark"
+
+accent = "#5fb58a"
+# muted is both faint text (placeholders, line numbers) and a button fill
+# under foreground text, so it sits midway: about 3:1 each way.
+muted = "#5d7a6c"
+
+# selection is the soft tint (btop rows, sidebars); selection_background is
+# the active-item fill (gum Yes/No buttons, menus, terminal selection).
+selection = "#1f3d31"
+selection_background = "#4f9e77"
+selection_foreground = "#06140e"
+
+background = "#0b1d17"
+dark_background = "#07150f"
+darker_background = "#040d09"
+lighter_background = "#13291f"
+
+foreground = "#e4dcc4"
+dark_foreground = "#8c9c8f"
+light_foreground = "#c9c2ab"
+bright_foreground = "#f5efdc"
+
+# Every ANSI color, normal and bright, is >= 4.5:1 on background (WCAG AA).
+red = "#e5675f"
+yellow = "#d4b26a"
+orange = "#e08d4e"
+green = "#86c27a"
+cyan = "#5fc2b4"
+blue = "#7aa6d4"
+magenta = "#c792b8"
+brown = "#a9845c"
+
+bright_red = "#f0817a"
+bright_yellow = "#e8cc8a"
+bright_green = "#a3d897"
+bright_cyan = "#83d8cb"
+bright_blue = "#9cc0e6"
+bright_magenta = "#ddafd0"
